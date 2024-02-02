@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiqu3&label=Profile%20views&color=0e75b6&style=flat" alt="siddiqu3" /> </p>
 
-- 🌱 I’m currently learning **Oracle,Django**
+- 🌱 I’m currently learning **AWS & DevOps**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/md-faisal-mohiuddin-siddiqui-327472238/](https://www.linkedin.com/in/md-faisal-mohiuddin-siddiqui-327472238/)
 
-- 💬 Ask me about **Java,JavaScript,C,C++,Python**
+- 💬 Ask me about **AWS,DevOps,Python,Git,Linux**
 
 - 📫 How to reach me **siddiquifaisal066@gmail.com**
 
